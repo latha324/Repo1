@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0E56-A643
+
+ Directory of C:\Users\kingk\Desktop\Projects
+
+27-01-2023  18:14    <DIR>          .
+27-01-2023  18:14    <DIR>          ..
+27-01-2023  18:13    <DIR>          test1.txt
+27-01-2023  18:14                 0 test2.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  310,034,681,856 bytes free
